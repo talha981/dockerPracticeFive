@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello World</h1>
+      <h1>Fully share lib Pipelines automated</h1>
       <h1>Day 9 of learning devops</h1>
       <h1>Day 8 Guys with Share lib</h1>
       <h1>Welcome to My App Its Day Eight of learning devops </h1>
